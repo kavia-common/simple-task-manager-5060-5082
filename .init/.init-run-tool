@@ -1,0 +1,4 @@
+{
+    "command": "python init_db.py && cd db_visualizer && PORT=<port> HOST=<host> BROWSER=none npm start",
+    "working_directory": "/tmp/kavia/workspace/code-generation/simple-task-manager-5060-5082/database"
+}

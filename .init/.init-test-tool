@@ -1,0 +1,4 @@
+{
+    "command": "python test_db.py",
+    "working_directory": "/tmp/kavia/workspace/code-generation/simple-task-manager-5060-5082/database"
+}
